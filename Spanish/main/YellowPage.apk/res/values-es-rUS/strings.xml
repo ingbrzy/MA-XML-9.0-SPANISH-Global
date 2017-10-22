@@ -350,7 +350,6 @@ Compruebe el número de rastreo."</string>
     <string name="quick_yellow_page_tab_phones">Teléfono</string>
     <string name="recharge_actual_price">Precio:</string>
     <string name="recharge_charge_range">Precio: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">Precio: RMB %s</string>
     <string name="recharge_follow_name">Recargar</string>
     <string name="recharge_history">Historial de recargas</string>
     <string name="recharge_history_empty">Vacío</string>
@@ -394,7 +393,6 @@ Total: RMB %3$s"</string>
     <string name="sending_shortcut">Enviando…</string>
     <string name="service_unavailiable">Servicio no disponible</string>
     <string name="share">Compartir</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">Id del llamada</string>
     <string name="toast_finish_delete_call_log">Historial de llamadas eliminado</string>
     <string name="toast_text_copied">Texto copiado</string>

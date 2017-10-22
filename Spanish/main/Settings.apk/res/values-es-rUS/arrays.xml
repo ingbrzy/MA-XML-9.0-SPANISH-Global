@@ -130,14 +130,6 @@
         <item>Máximo 3 procesos</item>
         <item>Máximo 4 procesos</item>
     </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Fuente de audio</item>
-        <item>MIDI</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>Muy lento</item>
         <item>Lento</item>
@@ -148,17 +140,6 @@
         <item>Veloz</item>
         <item>Muy veloz</item>
         <item>Rapidísimo</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrante (predefinido)</item>
@@ -183,11 +164,6 @@
         <item>Sólo mostrar en la Pantalla de bloqueo y en el Panel de notificaciones</item>
         <item>Mostrar siempre nombre de la operadora</item>
         <item>Nunca mostrar nombre de la operadora</item>
-    </string-array>
-    <string-array name="status_bar_show_carrier_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="check_importance_entries">
         <item>Recomendado</item>
@@ -621,18 +597,9 @@
         <item>Red móvil preferida</item>
         <item>Solo Wi-Fi</item>
     </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Red Wi-Fi preferida</item>
         <item>Red móvil preferida</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Desactivada</item>
@@ -690,15 +657,6 @@
         <item>Mostrar apps recientes</item>
         <item>Mostrar menú</item>
     </string-array>
-    <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0,5 segundos</item>
         <item>1 segundo</item>
@@ -752,14 +710,6 @@
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>Reinstalar Mi Phone Manager.</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -821,19 +771,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Compatibilidad</item>
         <item>Alta velocidad</item>
     </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="traffic_balance_entries">
         <item>Desactivado</item>
         <item>Normal</item>
         <item>Extremo</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -868,16 +809,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Red doméstica</item>
         <item>Toda la red</item>
@@ -886,18 +817,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CALIENTE</item>
@@ -908,11 +830,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4,5 pulgadas</item>
         <item>4,0 pulgadas</item>
         <item>3,5 pulgadas</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Inmediatamente</item>
@@ -1010,11 +927,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>Estilo de mano izquierda</item>
         <item>Estilo de mano derecha</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
         <item>Toque para ajustar - Doble toque para accionar</item>
@@ -1313,14 +1225,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>1</item>
-        <item>3</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Siempre</item>
         <item>30 minutos</item>
@@ -1328,167 +1232,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 horas</item>
         <item>8 horas</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="click_bottom">
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom02</item>
-        <item>\@drawable/clickbottom03</item>
-        <item>\@drawable/clickbottom04</item>
-        <item>\@drawable/clickbottom05</item>
-        <item>\@drawable/clickbottom06</item>
-        <item>\@drawable/clickbottom07</item>
-        <item>\@drawable/clickbottom08</item>
-        <item>\@drawable/clickbottom03</item>
-        <item>\@drawable/clickbottom02</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-    </string-array>
-    <string-array name="long_press">
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom02</item>
-        <item>\@drawable/longpressbottom03</item>
-        <item>\@drawable/longpressbottom04</item>
-        <item>\@drawable/longpressbottom05</item>
-        <item>\@drawable/longpressbottom06</item>
-        <item>\@drawable/longpressbottom07</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom09</item>
-        <item>\@drawable/longpressbottom10</item>
-        <item>\@drawable/longpressbottom11</item>
-        <item>\@drawable/longpressbottom04</item>
-        <item>\@drawable/longpressbottom03</item>
-        <item>\@drawable/longpressbottom02</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-    </string-array>
-    <string-array name="power_click">
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-    </string-array>
-    <string-array name="power_double_click">
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-    </string-array>
-    <string-array name="three_drop">
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop02</item>
-        <item>\@drawable/threedrop03</item>
-        <item>\@drawable/threedrop04</item>
-        <item>\@drawable/threedrop05</item>
-        <item>\@drawable/threedrop06</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-    </string-array>
     <string-array name="vip_mode_text">
         <item>De cualquier persona</item>
         <item>Sólo de contactos</item>
         <item>Sólo de personas destacadas</item>
         <item>Ninguno</item>
-    </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos los días</item>

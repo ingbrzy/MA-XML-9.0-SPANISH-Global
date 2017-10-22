@@ -380,7 +380,6 @@ responda"</string>
     <string name="detail_app_button">Información de la aplicación</string>
     <string name="pref_about_traffic_title">Configuración de uso de datos</string>
     <string name="pref_traffic_manage_title">Uso de datos</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Límite de datos móviles</string>
     <string name="pref_adjust_traffic_data">Establecer uso de datos</string>
     <string name="pref_category_title_other">Ajustes adicionales</string>
@@ -873,7 +872,6 @@ Esta actividad acorta la vida de la batería."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Esta aplicación puede ralentizar
 tu dispositivo"</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">¿Desinstalar %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Desinstala esta aplicación para solucionar los problemas de uso de batería.</string>
     <string name="om_ill_proc_type_wakelock_title">La aplicación bloquea el modo suspensión y descarga la batería</string>
@@ -1272,7 +1270,6 @@ tu dispositivo"</string>
     <string name="menu_text_networkassistants">Uso de datos</string>
     <string name="menu_text_networkassistants_remain">%s restantes</string>
     <string name="menu_text_networkassistants_danger">%s por encima del límite</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1633,7 +1630,6 @@ tu dispositivo"</string>
     <string name="card_main_deepclean_wechat_action">Limpiar</string>
     <string name="card_main_sectool_title">Herramientas</string>
     <string name="card_main_monthreport_action">Ver</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Comprobar la red</string>
     <string name="card_main_netcheck_summary">Conexión de prueba debido a problemas de conectividad</string>
     <string name="card_main_netcheck_action">Comprobar</string>

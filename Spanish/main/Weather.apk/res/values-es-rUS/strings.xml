@@ -55,7 +55,6 @@ Deslice hacia abajo para actualizar o revise los ajustes de red"</string>
     <string name="share_title">Compartir clima</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="sunrise">Amanecer</string>
     <string name="sunset">Puesta de sol</string>
@@ -149,11 +148,9 @@ Pulse la pantalla para añadir o cambiar la posición de la ciudad de forma manu
     <string name="install">Instalar</string>
     <string name="open">Abrir</string>
     <string name="open_now">Abrir</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="aqi_publish_source">Actualizado el %1$s por CNEMC</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Impulsado por Colorful Clouds</string>
     <string name="traffic_controls">Restricción vehicular</string>
     <string name="traffic_control_today_numbers">Hoy: %1$s</string>
@@ -170,7 +167,6 @@ Pulse la pantalla para añadir o cambiar la posición de la ciudad de forma manu
     <string name="international_details_uv_index_title">ÍNDICE UV</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="pressure_connect">%1$s mb</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">Alertas meteorológicas</string>
     <string name="edit_alert_city_title">Administrar alertas</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
@@ -237,8 +233,6 @@ Pulse la pantalla para añadir o cambiar la posición de la ciudad de forma manu
     <string name="minute_rain_pull_down_refresh">Arrastre hacia abajo para actualizar</string>
     <string name="minute_rain_refreshing_now">Actualizando…</string>
     <string name="minute_rain_let_go_refresh">Libere para actualizar</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">Detalles de la alerta</string>
     <string name="aqi_quality_map_title">Mapa de calidad del aire</string>
     <string name="aqi_station_min_distance_station">Estación más cercana</string>

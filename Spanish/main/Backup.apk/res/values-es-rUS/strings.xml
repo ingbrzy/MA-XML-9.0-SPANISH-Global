@@ -5,9 +5,6 @@
     <string name="xiaomi_update_dialog_message_diff">"Presentando la versión %1$s
 Tamaño de actualización Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Almacenamiento no disponible, compruebe su tarjeta SD.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">No se pudo iniciar la descarga. Asegúrese de que el Administrador de Descargas funciona correctamente.</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="local_app_name">Copia de seguridad</string>
@@ -226,7 +223,6 @@ Tamaño de actualización Delta: %2$s"</string>
     <string name="file_uploading">Cargando…</string>
     <string name="new_backup">Copia de seguridad</string>
     <string name="restore_backup">Restaurar</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Espere un momento…</string>
     <string name="state_mounting">Accediendo al almacenamiento del router…</string>
     <string name="abort_backup_confirm">La copia de seguridad no ha terminado. ¿Detener de todos modos?</string>

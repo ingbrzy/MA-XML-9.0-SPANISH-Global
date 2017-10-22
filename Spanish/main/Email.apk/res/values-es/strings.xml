@@ -463,7 +463,6 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Iniciar sesión en Gmail</string>
     <string name="header_category_account">Cuentas</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Comentarios</string>
     <string name="header_label_general_preferences">General</string>
     <string name="help_and_info">Ayuda</string>
@@ -809,10 +808,8 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="recognize_hotel_other_money">Otros gastos %1$s</string>
     <string name="recognize_hotel_reverse_date">Check antes de %1$s:%2$s %3$s</string>
     <string name="recognize_hotel_room_type">Habitación</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">Reserva de hotel</string>
     <string name="recognize_hotel_user_names">Huésped</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Ajustes de Viaje</string>
     <string name="recognize_ticket_air_notification_content">¡Disfruta de tu vuelo!</string>
     <string name="recognize_ticket_air_notification_title">El vuelo %3$s (%2$s/%1$s) despegará pronto. Verifica la información del vuelo.</string>
@@ -911,7 +908,6 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="silent_ringtone">Silencio</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">La contraseña del servidor de correo saliente es incorrecta</string>
     <string name="sort_attachment">Ordenar por</string>
     <string name="storage">Almacenamiento</string>

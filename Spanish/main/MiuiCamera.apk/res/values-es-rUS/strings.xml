@@ -340,7 +340,6 @@ El objeto no debe estar a más de 2 metros."</string>
     <string name="pref_camera_beautify_entry_low">Bajo</string>
     <string name="pref_camera_beautify_entry_normal">Medio</string>
     <string name="pref_camera_beautify_entry_high">Alto</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Opciones</string>
     <string name="button_front_camera_title">Tomar una selfie</string>
     <string name="button_normal_video_title">Grabar video</string>
@@ -357,7 +356,6 @@ y creará una en la que todos se vean mejor."</string>
     <string name="toast_saving">Guardando fotos…</string>
     <string name="cannot_connect_camera_volte_call">Vídeo llamada en curso, por favor, inténtelo más tarde.</string>
     <string name="hibernate_hint">Pulse la pantalla para activar la Cámara</string>
-    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">Modo Zoom</string>
     <string name="accessibility_portrait_button">Modo Retrato</string>
     <string name="toast_burst_snap_finished_summary">Fotos en ráfaga listas, %1$s fotos tomadas</string>

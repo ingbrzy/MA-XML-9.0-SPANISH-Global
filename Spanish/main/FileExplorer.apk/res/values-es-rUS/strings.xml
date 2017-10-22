@@ -161,7 +161,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">LOCAL</string>
     <string name="sys_size_enable">" disponible"</string>
     <string name="tools">HERRAMIENTAS</string>
@@ -421,7 +420,6 @@
     <string name="video_upload_btn_hint">Los videos MP4 deben tener una duración entre 3 seg.~10 min</string>
     <string name="video_upload_btn">Siguiente</string>
     <string name="video_upload_title">Seleccionar video</string>
-    <string name="video_upload_item_title">%1$s(%2$s)</string>
     <string name="video_comment_topic">\#Añadir tema de interés#</string>
     <string name="video_comment_hint">Seleccionar tema de interés</string>
     <string name="video_comment_publish">Publicar</string>
@@ -495,7 +493,6 @@
     <string name="video_topic_hint">Buscar personas o temas</string>
     <string name="comment_reply">Contestar %1$s:</string>
     <string name="comment_hint">Añadir comentario</string>
-    <string name="origin_name">%1$s:</string>
     <string name="hot_comments">Comentarios populares</string>
     <string name="new_comments">Nuevos comentarios</string>
     <string name="copy_text">Copiar texto</string>
@@ -755,7 +752,6 @@
     <string name="finish_str">Listo</string>
     <string name="tab_msg">Mensajes</string>
     <string name="msg_page_video_default_title">He subido un video, ¡hecha un vistazo!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">Siguiendo con éxito</string>
     <string name="comment_fail">No se pudo publicar el comentario, vuelva a intentarlo</string>
     <string name="comment_fail_banned_temporary">Ha sido temporalmente expulsado por comentarios inapropiados</string>

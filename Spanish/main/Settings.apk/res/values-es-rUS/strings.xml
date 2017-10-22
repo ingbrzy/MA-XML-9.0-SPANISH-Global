@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Ninguna</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -681,7 +679,6 @@ Esta configuración afecta a todos los usuarios de este dispositivo."</string>
     <string name="security_enable_widgets_title">Habilitar widgets</string>
     <string name="security_enable_widgets_disabled_summary">Inhabilitada por el administrador</string>
     <string name="owner_info_settings_summary">Ninguno</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_edit_text_hint">Por ejemplo, Android de Juan</string>
     <string name="user_info_settings_title">Datos de usuario</string>
     <string name="show_profile_info_on_lockscreen_label">Mostrar datos del perfil en pantalla bloqueada</string>
@@ -943,7 +940,6 @@ Para continuar usando el teléfono, debes restablecer la configuración de fábr
     <string name="wifi_display_options_name">Nombre</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Permitir el intercambio de datos cuando el dispositivo toque otro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -2210,7 +2206,6 @@ Si el dispositivo tiene varios usuarios, esta combinación de teclas en la panta
     <string name="gadget_title">Control de energía</string>
     <string name="gadget_toggle_wifi">Actualizando ajustes Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Actualización de la configuración de Bluetooth</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">activado</string>
     <string name="gadget_state_off">desactivado</string>
     <string name="gadget_state_turning_on">activando</string>
@@ -2386,7 +2381,6 @@ Con este software de Google, puedes sincronizar tus datos y acceder a tus contac
     <string name="delete">Borrar</string>
     <string name="misc_files">Archivos variados</string>
     <string name="misc_files_selected_count">Se seleccionaron %1$d de entre %2$d.</string>
-    <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="data_usage_summary_title">Uso de datos</string>
     <string name="data_usage_app_summary_title">Uso datos de aplicación</string>
@@ -2633,7 +2627,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="nfc_payment_no_apps">Paga en las tiendas con tu teléfono</string>
     <string name="nfc_payment_default">Aplicación de pago predeterminada</string>
     <string name="nfc_payment_default_not_set">Sin establecer</string>
-    <string name="nfc_payment_app_and_desc">%1$s: %2$s</string>
     <string name="nfc_payment_use_default">Utilizar la aplicación predeterminada</string>
     <string name="nfc_payment_favor_default">Siempre</string>
     <string name="nfc_payment_favor_open">Excepto cuando otra aplicación para efectuar pagos esté abierta</string>
@@ -2694,7 +2687,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">Tarjetas SIM</string>
     <string name="sim_settings_title">Tarjetas SIM</string>
-    <string name="sim_settings_summary">%1$s (%2$s)</string>
     <string name="sim_cards_changed_message">Las tarjetas SIM cambiaron.</string>
     <string name="sim_cards_changed_message_summary">Presiona para establecer actividades</string>
     <string name="sim_cellular_data_unavailable">Datos móviles no disponibles</string>
@@ -2815,7 +2807,6 @@ Cualquier usuario puede actualizar aplicaciones para todos los usuarios."</strin
     <string name="zen_mode_option_important_interruptions">Solo prioridad</string>
     <string name="zen_mode_option_alarms">Solo alarmas</string>
     <string name="zen_mode_option_no_interruptions">Silencio total</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">Bloquear alteraciones visuales</string>
     <string name="configure_notification_settings">Configurar las notificaciones</string>
     <string name="advanced_section_header">Avanzada</string>
@@ -2909,7 +2900,6 @@ La app podrá activar y desactivar el modo No molestar, y cambiar la configuraci
     <string name="zen_mode_schedule_alarm_title">La alarma puede anular la hora de finalización</string>
     <string name="zen_mode_schedule_alarm_summary">Detener en la hora de finalización o la próxima alarma (lo que ocurra primero)</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
     <string name="zen_mode_calls">Llamadas</string>
     <string name="zen_mode_messages">Mensajes</string>
@@ -3091,8 +3081,6 @@ Esta opción te permitirá proteger los datos del dispositivo en caso de pérdid
     <string name="memory_avg_use">Promedio</string>
     <string name="memory_max_desc">Máximo de %1$s</string>
     <string name="memory_avg_desc">Promedio de %1$s</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
-    <string name="process_format">%1$s (%2$d)</string>
     <string name="high_power_apps">Optimización de la batería</string>
     <string name="high_power_filter_on">Sin optimizar</string>
     <string name="high_power_on">Sin optimizar</string>
@@ -3369,7 +3357,6 @@ Esta opción te permitirá proteger los datos del dispositivo en caso de pérdid
     <string name="dndm_auto_setting_group">Programado</string>
     <string name="dndm_auto_button_title">Repetir tiempo de no molestar</string>
     <string name="dndm_auto_time_setting">Establecer hora</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">De</string>
     <string name="dndm_auto_time_turn_on_title">Automáticamente activar el modo no molestar</string>
     <string name="dndm_auto_time_turn_off">A</string>
@@ -4844,7 +4831,6 @@ Seleccione su sistema operativo:"</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
     <string name="app_factory_reset_dlg_title">¿Desinstalar actualizaciones?</string>
     <string name="app_factory_reset_dlg_text">Todas las actualizaciones de esta app del sistema Android serán desinstaladas.</string>

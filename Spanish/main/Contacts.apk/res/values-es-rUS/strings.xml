@@ -257,7 +257,6 @@ La información de las cuentas de solo lectura se ocultará en las listas de con
     <string name="vcard_export_will_start_message">%s será exportada en breve.</string>
     <string name="vcard_export_request_rejected_message">Exportación de vCard rechazada. Vuelva a intentarlo más tarde.</string>
     <string name="vcard_unknown_filename">contacto</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">¿Exportar contactos?</string>
     <string name="confirm_export_message">Su lista de contactos será exportada a: %s.</string>
     <string name="exporting_contact_failed_title">No se pudo exportar</string>
@@ -402,7 +401,6 @@ Motivo: \"%s\""</string>
     <string name="recent">Recientes</string>
     <string name="recent_updates">Actualizaciones recientes</string>
     <string name="account_type_format">%1$s contactos</string>
-    <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">Usar esta foto</string>
     <string name="contact_read_only">No se puede editar desde esta app.</string>
     <string name="no_contact_details">No hay información adicional de este contacto.</string>
@@ -470,7 +468,6 @@ Seleccione una de las siguientes opciones:"</string>
     <string name="non_phone_add_to_contacts">Añadir a un contacto existente</string>
     <string name="activity_title_confirm_add_detail">Añadir a contactos</string>
     <string name="non_phone_close">Cerrar</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Introducir año</string>
     <string name="social_widget_label">Contacto</string>
     <string name="social_widget_loading">Cargando…</string>
@@ -488,7 +485,6 @@ Seleccione una de las siguientes opciones:"</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar los cambios?</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Configurar mi perfil</string>
     <string name="enter_contact_name">Escribir el nombre de la persona</string>
     <string name="view_updates_from_group">Ver actualizaciones</string>
@@ -642,7 +638,6 @@ Las tarjetas de contacto están desactivadas"</string>
     <string name="miprofile_alertdialog_message">Mostrar este nombre a los contactos cuando solicite el intercambio de tarjetas.</string>
     <string name="miprofile_alertdialog_edit">Introduzca nombre</string>
     <string name="miprofile_switch_off_alertdialog_message">Usted no podrá intercambiar tarjetas de contacto con otras personas.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Añadir número telefónico</string>
     <string name="miprofile_bind_account_alertdialog_message">Debe añadir el número de teléfono de este dispositivo a su Mi Cuenta para usar esta función.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Añadir número</string>
@@ -963,7 +958,6 @@ Las tarjetas de contacto están desactivadas"</string>
     <string name="preference_smart_group_location_summary">Agrupar por código de área</string>
     <string name="preference_smart_group_frequency_title">Recientes</string>
     <string name="preference_smart_group_frequency_summary">Agrupar por más recientes</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_label">Grupos inteligentes</string>
     <string name="smart_group_loading">Espere un momento…</string>
     <string name="smart_group_company_label">Compañías</string>
@@ -1018,7 +1012,6 @@ Las tarjetas de contacto están desactivadas"</string>
     <string name="device_import_local_account">Cuenta local</string>
     <string name="import_name">Nombre</string>
     <string name="import_percent">0%</string>
-    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">Compruebe el teléfono objetivo</string>

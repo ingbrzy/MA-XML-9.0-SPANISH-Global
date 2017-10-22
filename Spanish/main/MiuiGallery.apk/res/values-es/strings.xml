@@ -123,7 +123,6 @@
     <string name="more_face">Más personas que se parecen</string>
     <string name="face_confirm">Esta es la misma persona</string>
     <string name="face_recommend">Recomendaciones</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="face_name_input">Introducir nombre</string>
     <string name="face_name_edit">Editar</string>
     <string name="confirm_hidden_recommend_group">OK</string>
@@ -418,7 +417,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tip_capture_time">Hora de captura:</string>
     <string name="tip_file_info">Información del archivo:</string>
     <string name="tip_capture_params">Datos EXIF:</string>
@@ -601,7 +599,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="welcome_to_slim">Optimizar almacenamiento local</string>
     <string name="slim_introduce">Sustituir fotos de alta resolución por la versión optimizada después de que se hayan copiado en Mi Nube. Las imágenes en alta resolución todavía se encontrarán disponibles en Mi Nube.</string>
     <string name="slim_introduce_with_specific_size">Sustituir fotos de alta resolución por la versión mejorada después de que se hayan copiado en Mi Nube. Las imágenes en alta resolución estarán disponibles en Mi Nube. Esto puede ahorrar hasta un %1$s de almacenamiento local (se requiere Mi Cuenta).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Respaldar fotos y vídeos automáticamente (se requiere Mi Cuenta)</string>
     <string name="next">Siguiente</string>
     <string name="login_and_enable_service">Iniciar sesión con Mi Cuenta</string>
@@ -679,7 +676,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="cloud_storage_ok_append_desc">Disponible %s</string>
     <string name="cloud_storage_warn_title">No hay suficiente espacio en Mi Nube</string>
     <string name="cloud_storage_warn_desc">Comprar nube VIP para almacenamiento extra</string>
-    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">Aumentar espacio en la nube</string>
     <string name="user_agreement2">Términos del Servicio</string>
     <string name="user_agreement4">Política de Privacidad</string>
@@ -790,8 +786,6 @@ El/La %4$s de %3$s ha compartido el álbum de %5$s"</string>
     <string name="search_request_open">Únete al equipo de prueba</string>
     <string name="search_request_applied">Applied</string>
     <string name="search_title_more">Más</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_icon">search_icon</string>
     <string name="search_mark_feedback_false_positive_title">Solucionar</string>
     <string name="search_mark_feedback_false_negative_title">Aceptar</string>
     <string name="search_feedback_false_negative_title">Los elementos seleccionados son \"%s\"</string>

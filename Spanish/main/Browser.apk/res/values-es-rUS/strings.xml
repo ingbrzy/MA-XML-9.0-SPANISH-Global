@@ -174,7 +174,6 @@
     <string name="color_picker_dialog_title">Seleccionar color</string>
     <string name="color_picker_hue">Matiz</string>
     <string name="color_picker_saturation">Saturación</string>
-    <string name="color_picker_value">Valor</string>
     <string name="comment_app_menu">Comentarios</string>
     <string name="comment_description">Comentario</string>
     <string name="comment_hint">Comentario</string>
