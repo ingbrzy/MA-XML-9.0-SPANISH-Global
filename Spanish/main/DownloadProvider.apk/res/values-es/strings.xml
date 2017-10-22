@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">No hay espacio suficiente en el almacenamiento externo</string>
+    <string name="dialog_insufficient_space_on_cache">No hay espacio suficiente en el almacenamiento interno de descarga</string>
+    <string name="auto_restart_under_wifi">La red Wi-Fi descargará automáticamente este archivo</string>
+    <string name="task_already_exist">La tarea ya existe</string>
+    <string name="privacy_tip_title">¿Usar acelerador Xunlei?</string>
+    <string name="privacy_tip_content">¿Usar acelerador Xunlei para acelerar las descargas? La URL del servidor de descargas será enviada a los servidores de Xunlei. Lo detalles de Mi Cuenta también se enviarán para comprobar si tiene alguna suscripción activa a este servicio.</string>
+    <string name="privacy_tip_cancel">Cancelar</string>
+    <string name="privacy_tip_ok">OK</string>
+    <string name="privacy_notif_title">El acelerador de descargas Xunlei está activado</string>
+    <string name="privacy_notif_content">Pulse para ver detalles.</string>
+    <string name="notif_text_engine_on">Acelerando…</string>
+    <string name="notif_text_engine_off">Acelerador Xunlei desactivado.</string>
+    <string name="notif_title_single_downloading">Descargando %1$s</string>
+    <string name="notif_title_multiple_downloading">Descargando %1$d archivos</string>
+    <string name="notif_title_file_size">%1$d total</string>
+    <string name="paused_waiting_for_network">Esperando red</string>
+    <string name="warning_tip_title">Aviso de uso de datos</string>
+    <string name="warning_tip_content">No está conectado a una red Wi-Fi. El uso de la conexión de datos móviles para descargar la actualización aumentará su uso de datos. Si excede el límite de datos de su plan, su compañía podría cobrarle costes adicionales.</string>
+    <string name="warning_tip_cancel">Descargar</string>
+    <string name="warning_tip_ok">Pausa</string>
+    <string name="dialog_not_show_again">No mostrar de nuevo</string>
+    <string name="notification_download_complete">Descarga finalizada</string>
+    <string name="notification_download_failed">No se pudo descargar</string>
+    <string name="notification_download_success_more">%1$d descargado</string>
+    <string name="notification_download_failed_more">No se pudieron descargar %1$d elementos</string>
+    <string name="mobile_recommended_title">Uso de datos móviles</string>
+    <string name="recommended_file_size_download_in_mobile">¿Utilizar %s de datos móviles para descargar este archivo?</string>
+    <string name="recommended_no_file_size_download_in_mobile">¿Utilizar su conexión de datos móviles para descargar este archivo?</string>
+    <string name="button_wait_for_wifi">Espere</string>
+    <string name="button_download_now">Descargar ahora</string>
+    <string name="insufficient_space">No hay suficiente espacio libre en la memoria interna de su dispositivo</string>
+    <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
+    <string name="download_apk_desktop_pending">Pendiente</string>
+    <string name="download_apk_desktop_pause">En pausa</string>
+    <string name="download_apk_desktop_running">Descargando</string>
+    <string name="download_apk_desktop_installing">Instalando</string>
+    <string name="xl_speedup_experience_notify_title">Membresía Xunlei</string>
+    <string name="xl_speedup_experience_notify_context">La velocidad aumentará para cada descarga al ser miembro Xunlei</string>
+    <string name="xl_speedup_notify_button_experience">Prueba gratuita</string>
+    <string name="xl_speedup_notify_button_member">Hacerse miembro</string>
+    <string name="notify_disabled_net_by_app">Conexión a Internet restringida por la aplicación Seguridad</string>
+    <string name="notify_only_wifi_download">Esperando conexión Wi-Fi</string>
+    <string name="notify_install_guide_title">%s instalado correctamente</string>
+    <string name="notify_install_guide_msg">Instalado con éxito</string>
+    <string name="notify_install_guide_forward_text">Abrir</string>
+    <string name="app_label">Administrador de descargas</string>
+    <string name="permlab_downloadManager">Acceso al administrador de descargas</string>
+    <string name="permdesc_downloadManager">Permite que la aplicación acceda al administrador de descargas y lo utilice para descargar archivos. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del administrador de descargas</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que la aplicación acceda a las funciones avanzadas del administrador de descargas. Las aplicaciones malintencionadas pueden utilizar este permiso para provocar daños en las descargas y acceder a información privada.</string>
+    <string name="permlab_downloadCompletedIntent">Envío de notificaciones de descarga</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que la aplicación envíe notificaciones sobre descargas completadas. Las aplicaciones malintencionadas pueden utilizar este permiso para confundir a otras aplicaciones que descarguen archivos.</string>
+    <string name="permlab_seeAllExternal">Ver descargas de USB</string>
+    <string name="permdesc_seeAllExternal">Permite que la aplicación vea todas las descargas en la tarjeta SD, independientemente de la aplicación que las haya descargado.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en caché de descargas</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que la aplicación descargue archivos en la memoria caché que no se pueden eliminar automáticamente si falta espacio en el administrador de descargas.</string>
+    <string name="permlab_downloadWithoutNotification">descargar archivos sin notificación</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que la aplicación descargue archivos a través del administrador de descargas sin informar al usuario.</string>
+    <string name="permlab_accessAllDownloads">Acceso a todas las descargas del sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que la aplicación vea y modifique todas las descargas iniciadas por cualquier aplicación del sistema.</string>
+    <string name="download_unknown_title">&lt;Sin título></string>
+    <string name="notification_need_wifi_for_size">La descarga requiere Wi-Fi</string>
+    <string name="notification_paused_in_background">Pausada en segundo plano</string>
+    <string name="wifi_required_title">Descarga demasiado grande para red de operador</string>
+    <string name="wifi_required_body" formatted="false">"Debes usar una conexión Wi-Fi para completar esta descarga de %s . 
+
+Toca %s  para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
+    <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
+    <string name="wifi_recommended_body" formatted="false">"Si descargas %s , puedes quedarte sin batería y tu operador te puede cobrar por un uso excesivo de datos.
+
+ Toca %s para iniciar la descarga la próxima vez que te conectes a una red Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Poner en cola</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Empezar ahora</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Tiempo restante: %s</string>
+    <string name="download_no_application_title">Error al abrir el archivo</string>
+    <string name="root_downloads">Descargas</string>
+    <string name="download_queued">En cola</string>
+    <string name="download_running">En curso</string>
+    <string name="download_error">No se ha completado</string>
+    <string name="download_running_percent">En curso (%d%%)</string>
+</resources>

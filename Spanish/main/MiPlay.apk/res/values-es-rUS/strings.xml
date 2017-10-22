@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servidor de medios</string>
+    <string name="noti_projection_status_title">Pantalla Inalámbrica Mi Play</string>
+    <string name="noti_projection_status_desc_on">Reflejo de pantalla activado</string>
+    <string name="prjection_title">Pantalla inalámbrica</string>
+    <string name="search_for_devices">Actualizar</string>
+    <string name="media_feature_projection">Pantalla de espejo</string>
+    <string name="media_status_error">Error</string>
+    <string name="media_status_starting">Conectando…</string>
+    <string name="media_status_started">Conectado</string>
+    <string name="media_status_stopping">Deteniendo…</string>
+    <string name="media_status_stopped">Detenido</string>
+    <string name="wifi_display_settings_title">Transmitir</string>
+    <string name="wifi_display_enable_menu_item">Activar pantalla inalámbrica</string>
+    <string name="wifi_display_no_devices_found">No se localizaron dispositivos cercanos.</string>
+    <string name="wifi_display_status_connecting">Conectando</string>
+    <string name="wifi_display_status_connected">Conectado</string>
+    <string name="wifi_display_status_in_use">En uso</string>
+    <string name="wifi_display_status_not_available">No disponible</string>
+    <string name="wifi_display_details">Ajustes de pantalla</string>
+    <string name="wifi_display_options_title">Opciones de pantalla inalámbrica</string>
+    <string name="wifi_display_options_forget">Olvidar</string>
+    <string name="wifi_display_options_done">Listo</string>
+    <string name="wifi_display_options_name">Nombre</string>
+    <string name="cancel">Cancelar</string>
+    <string name="enable_wifi_title">Activar Wi-Fi</string>
+    <string name="enable_wifi_message">Active la Wi-Fi para buscar y conectar dispositivos cercanos.</string>
+    <string name="enable_wifi_btn">Activar</string>
+    <string name="media_route_controller_disconnect">Desconectar</string>
+</resources>

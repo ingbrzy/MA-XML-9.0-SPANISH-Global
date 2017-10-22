@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>La alarma sonará en menos de un minuto</item>
+        <item>La alarma sonará en %1$s</item>
+        <item>La alarma sonará en %2$s</item>
+        <item>La alarma sonará en %1$s %2$s</item>
+        <item>La alarma sonará en %3$s</item>
+        <item>La alarma sonará en %1$s %3$s</item>
+        <item>La alarma sonará en %2$s %3$s</item>
+        <item>La alarma sonará en %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ayer</item>
+        <item>Hoy</item>
+        <item>mañana</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una vez</item>
+        <item>Diariamente</item>
+        <item>Días laborales</item>
+        <item>Fin de semana</item>
+        <item>De lun a vie</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una vez</item>
+        <item>Diariamente</item>
+        <item>De lun a vie</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bueno</item>
+        <item>Satisfactorio</item>
+        <item>Moderadamente contaminado</item>
+        <item>Malo</item>
+        <item>Muy malo</item>
+        <item>Grave</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reducir actividades fuera</item>
+        <item>Calles resbalosas</item>
+        <item>Clima tormentoso, ¡tenga cuidado!</item>
+        <item>El aire está contaminado, ¡use una máscara!</item>
+        <item>Lleve un paraguas al salir</item>
+        <item>Tenga cuidado en el camino</item>
+        <item>Viene una tormenta de arena, ¡use una máscara!</item>
+        <item>¡Tenga un buen día!</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>La alarma sonará en menos de 1 minuto.</item>
+        <item>La alarma sonará en %1$s.</item>
+        <item>La alarma sonará en %2$s.</item>
+        <item>La alarma sonará en %1$s y %2$s.</item>
+        <item>La alarma sonará en %3$s.</item>
+        <item>La alarma sonará en %1$s y %3$s.</item>
+        <item>La alarma sonará en %2$s y %3$s.</item>
+        <item>La alarma sonará en %1$s %2$s and %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nunca</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>No hacer nada</item>
+        <item>Dormitar</item>
+        <item>Descartar</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Renombrar</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Cámara</item>
+        <item>Galería</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Por fecha de creación</item>
+        <item>Por fecha de modificación</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nombre</item>
+        <item>Sobrenombre</item>
+        <item>Teléfono</item>
+        <item>Correo electrónico</item>
+        <item>Compañía</item>
+        <item>IM</item>
+        <item>Teléfono SIP</item>
+        <item>Cumpleaños</item>
+        <item>Página web</item>
+        <item>Dirección</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequeña</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Muy grande</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Bienvenido a las Notas
+"</item>
+        <item>"Crear una nota
+Pulse el botón \"+\" para crearla."</item>
+        <item>"Escoger plantillas
+Utilice plantillas para cambiar los fondos y estilos de sus notas.
+Pulse el botón derecho de la parte inferior de la nota para elegir una plantilla."</item>
+        <item>"Cree carpetas
+Organice sus notas en carpetas.
+Existen 2 formas para crear una carpeta:
+1. Pulse en el icono de la carpeta en la esquina superior derecha, luego pulse el signo \"+\".
+2. Mantenga pulsada una nota hasta que aparezca un menú y seleccione \"Mover a\" - \"Nueva carpeta\"."</item>
+        <item>"Ocultar notas
+Proteja las notas privadas con una contraseña.
+Existen 2 formas para ocultar una nota:
+1. Pulse el botón \"+\" en la esquina superior derecha de una nota y seleccione \"Ocultar\".
+2. Mantenga pulsada una nota hasta que aparezca un menú emergente y seleccione \"Ocultar\"."</item>
+        <item>"¡Y más características increíbles!
+ - Imágenes, listas, recordatorios.
+
+Añada imágenes
+Pulse el icono de la imagen en la parte inferior de la nota para añadir imagen.
+Puede tomar una foto o escoger una de la Galería.
+Cuando una nota contiene una imagen, esa imagen se usará como miniatura de la nota en la vista previa.
+
+Crear listas
+Las casillas son esenciales en una lista de tareas pendientes.
+Pulse el icono de la casilla en la parte inferior de la nota para añadir una casilla a un texto.
+Marque la casilla cuando la tarea esté lista.
+
+Establezca recordatorios
+
+Establezca recordatorios directamente desde sus notas.
+Pulse \"Más\" en la esquina superior derecha de una nota, seleccione \"Recordatorios\", ajuste la fecha.
+"</item>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Predeterminado</item>
+        <item>Modo oculto</item>
+        <item>Modo lectura</item>
+        <item>Modo medios</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>La app se está ejecutando en primer plano</item>
+        <item>Pantalla encendida</item>
+        <item>Pantalla desactivada</item>
+        <item>Apagar pantalla después de 10 minutos</item>
+        <item>Pantalla completa</item>
+        <item>Salir de pantalla completa</item>
+        <item>La app se está ejecutando en segundo plano</item>
+        <item>El teléfono se está cargando</item>
+        <item>Teléfono no se está cargando</item>
+        <item>El teléfono está inactivo</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Brillo máximo de pantalla</item>
+        <item>Frecuencia máxima de la CPU</item>
+        <item>Modo de pantalla</item>
+        <item>Uso de CPU</item>
+        <item>Conexión de datos</item>
+        <item>Ubicación</item>
+        <item>Primera notificación</item>
+        <item>Notificaciones en la pantalla de bloqueo</item>
+        <item>Restringir conexiones de datos en segundo plano</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Nada</item>
+        <item>Predeterminado</item>
+        <item>Imágenes</item>
+        <item>Películas</item>
+        <item>Ahorro de batería</item>
+        <item>Balanceado</item>
+        <item>Rendimiento</item>
+        <item>Activado</item>
+        <item>Desactivado</item>
+        <item>Inmediatamente</item>
+        <item>Después de 10 minutos</item>
+        <item>Después de 30 minutos</item>
+        <item>Cuando la pantalla está apagada</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>En este modo</item>
+        <item>Sin seleccionar</item>
+        <item>Seleccionado en otros modos</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Personalizado</item>
+        <item>Economizador de batería</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Ahora</item>
+        <item>Segundo plano</item>
+        <item>Reciente</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Bloqueando el Modo dormir profundo</item>
+        <item>Bloqueando el Modo dormir</item>
+        <item>Buscando Wi-Fi</item>
+        <item>Usando el GPS</item>
+        <item>Ocupando CPU</item>
+        <item>Despertando frecuentemente el dispositivo</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Bloqueando Modo de Suspensión Profunda</item>
+        <item>Bloqueando Modo de Suspensión</item>
+        <item>Buscando Wi-Fi</item>
+        <item>Usando GPS</item>
+        <item>Ocupando CPU</item>
+        <item>Despertando frecuentemente el dispositivo</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Modo control de temperatura predeterminado</item>
+        <item>Modo de rendimiento</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Modo control de temperatura actual</item>
+        <item>Modo de rendimiento actual</item>
+    </string-array>
+</resources>

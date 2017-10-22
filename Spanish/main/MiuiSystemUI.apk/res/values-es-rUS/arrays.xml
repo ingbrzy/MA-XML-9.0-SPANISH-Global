@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conectando…</item>
+        <item>Autenticando…</item>
+        <item>Obteniendo dirección IP…</item>
+        <item>Conectado</item>
+        <item>Suspendido</item>
+        <item>Desonectando…</item>
+        <item>Desconectado</item>
+        <item>Error</item>
+        <item>Bloqueado</item>
+        <item>Evitando una mala conexión temporalmente</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaneando…</item>
+        <item>Conectándose a %1$s…</item>
+        <item>Autenticando %1$s…</item>
+        <item>Obteniendo dirección IP de %1$s…</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspendido</item>
+        <item>Desconectándose de %1$s…</item>
+        <item>Desconectado</item>
+        <item>Error</item>
+        <item>Bloqueado</item>
+        <item>Evitando una mala conexión temporalmente</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>No comprobar nunca</item>
+        <item>Comprobar sólo contenido DRM</item>
+        <item>Comprobar siempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>No usar nunca comprobación HDCP</item>
+        <item>Usar comprobación HDCP sólo para contenido DRM</item>
+        <item>Usar siempre comprobación HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desactivado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivado</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desactivado</item>
+        <item>64KB por buffer de registro</item>
+        <item>256KB por buffer de registro</item>
+        <item>1MB por buffer de registro</item>
+        <item>4MB por buffer de registro</item>
+        <item>16MB por buffer de registro</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animaciones desactivadas</item>
+        <item>Escala de animación 0.5x</item>
+        <item>Animación 1x</item>
+        <item>Animación 1.5x</item>
+        <item>Animación 2x</item>
+        <item>Animación 5x</item>
+        <item>Animación 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animaciones desactivadas</item>
+        <item>Escala de animación 0.5x</item>
+        <item>Animación 1x</item>
+        <item>Animación 1.5x</item>
+        <item>Animación 2x</item>
+        <item>Animación 5x</item>
+        <item>Animación 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animaciones desactivadas</item>
+        <item>Escala de animación 0.5x</item>
+        <item>Animación 1x</item>
+        <item>Animación 1.5x</item>
+        <item>Animación 2x</item>
+        <item>Animación 5x</item>
+        <item>Animación 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Ninguno</item>
+        <item>480p</item>
+        <item>480p (seguro)</item>
+        <item>720p</item>
+        <item>720p (seguro)</item>
+        <item>1080p</item>
+        <item>1080p (seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (escalonado)</item>
+        <item>4K (escalonado, seguro)</item>
+        <item>720p, 1080p (pantalla dual)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Ninguno</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Pila de llamadas en gIGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Desactivado</item>
+        <item>Diseñe un área no rectangular en azul</item>
+        <item>Destacar comandos de diseño en verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Desactivado</item>
+        <item>En la pantalla como barras</item>
+        <item>En adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Desactivado</item>
+        <item>Mostrar áreas sobrescritas</item>
+        <item>Mostrar áreas para deuteranomalía</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Límite estándar</item>
+        <item>Sin procesos en segundo plano</item>
+        <item>Máximo 1 proceso</item>
+        <item>Máximo 2 procesos</item>
+        <item>Máximo 3 procesos</item>
+        <item>Máximo 4 procesos</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Cargando</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Fuente de audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muy lento</item>
+        <item>Lento</item>
+        <item>Normal</item>
+        <item>Rápido</item>
+        <item>Más rápido</item>
+        <item>Muy rápido</item>
+        <item>Veloz</item>
+        <item>Muy veloz</item>
+        <item>Rapidísimo</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrante (predefinido)</item>
+        <item>Natural</item>
+        <item>Predefinido</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Colores mejorados</item>
+        <item>Colores naturales como vistos con el ojo</item>
+        <item>Colores optimizados para contenido digital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Soleado</item>
+        <item>Nublado</item>
+        <item>Clima</item>
+        <item>Neblinoso</item>
+        <item>Tormentas de lluvia fuerte</item>
+        <item>Aguacero</item>
+        <item>Tormenta de lluvia</item>
+        <item>Tormenta eléctrica</item>
+        <item>Chubascos</item>
+        <item>Lluvias fuertes</item>
+        <item>Lluvia moderada</item>
+        <item>Llovizna</item>
+        <item>Lluvia y nieve</item>
+        <item>Ventisca</item>
+        <item>Nieve</item>
+        <item>Nevada intensa</item>
+        <item>Nevada moderada</item>
+        <item>Nevada ligera</item>
+        <item>Tormenta de arena fuerte</item>
+        <item>Tormenta de arena</item>
+        <item>Arena</item>
+        <item>Viento</item>
+        <item>Granizo</item>
+        <item>Polvo</item>
+        <item>Neblina</item>
+        <item>Lluvia helada</item>
+        <item></item>
+    </string-array>
+</resources>

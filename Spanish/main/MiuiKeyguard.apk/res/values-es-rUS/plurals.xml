@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Código PUK incorrecto, quedan %d intentos</item>
+        <item quantity="one">Código PUK incorrecto, queda %d intento</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Código PIN incorrecto, quedan %d intentos</item>
+        <item quantity="one">Código PIN incorrecto, queda %d intento</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Entente de nuevo en %d segundos</item>
+        <item quantity="one">Entente de nuevo en %d segundo</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Intente de nuevo en %d minutos</item>
+        <item quantity="one">Intente de nuevo en %d minuto</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Alrededor de %d minutos para cargar</item>
+        <item quantity="one">Alrededor de %d minuto para cargar</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Alrededor de %d horas para cargar</item>
+        <item quantity="one">Alrededor de %d hora para cargar</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Alrededor de %1$d h %2$d m para cargar</item>
+        <item quantity="one">Alrededor de %1$d h %2$d m para cargar</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Quedan alrededor de %d minutos</item>
+        <item quantity="one">Queda alrededor de %d minuto</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Quedan alrededor de %d horas</item>
+        <item quantity="one">Queda alrededor de %d hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Quedan alrededor de %1$d h %2$d m</item>
+        <item quantity="one">Queda alrededor de %1$d h %2$d m</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
+</resources>
