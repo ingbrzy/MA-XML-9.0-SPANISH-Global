@@ -35,6 +35,7 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d días</string>
     <string name="durationDayHours">%1$d día %2$d h</string>
     <string name="durationDayHour">%1$d día %2$d h</string>
@@ -1326,6 +1327,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
     <string name="zen_mode_alarm">Hasta la hora %1$s (próxima alarma)</string>
     <string name="zen_mode_forever">Hasta que lo desactives</string>
     <string name="zen_mode_forever_dnd">Hasta que desactives No molestar</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="toolbar_collapse_description">Contraer</string>
     <string name="zen_mode_feature_name">No molestar</string>
     <string name="zen_mode_downtime_feature_name">Tiempo de inactividad</string>
@@ -1351,6 +1353,7 @@ El ahorro de batería se desactiva de forma automática cuando el dispositivo se
     <string name="floating_toolbar_close_overflow_description">Cerrar la barra de herramientas flotante adicional</string>
     <string name="maximize_button_text">Maximizar</string>
     <string name="close_button_text">Cerrar</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="importance_from_user">Estableciste la importancia de estas notificaciones.</string>
     <string name="importance_from_person">Es importante debido a las personas involucradas.</string>
     <string name="user_creation_account_exists">¿Quieres permitir que %1$s cree un usuario nuevo con %2$s?</string>

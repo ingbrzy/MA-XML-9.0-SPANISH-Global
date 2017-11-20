@@ -501,6 +501,7 @@ Pulse %s para completar la descarga la próxima vez que esté conectado a una re
     <string name="set_id3_failed">No se puede guardar la información</string>
     <string name="set_id3_not_support_format">No se puede editar este formato de archivo</string>
     <string name="set_id3_not_have_read_or_write_permission">No tiene permiso para editar este archivo</string>
+    <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="lyric_setting">Ajustes de letras</string>
     <string name="modify_lyric">Editar letra</string>
     <string name="modify_progress">Cambiar la velocidad de desplazamiento de la letra</string>
@@ -521,9 +522,9 @@ Pulse %s para completar la descarga la próxima vez que esté conectado a una re
     <string name="bill_list_fragment_title">Listas</string>
     <string name="nowplaying_dialog_title_delete_tracks">¿Limpiar la lista actual?</string>
     <string name="nowplaying_menu_item_delete">Limpiar</string>
-    <string name="nowplaying_circle_style">Nowplaying Circle Style</string>
-    <string name="nowplaying_circle_style_wave">Wave</string>
-    <string name="nowplaying_circle_style_rainbow">Rainbow</string>
+    <string name="nowplaying_circle_style">Estilo del círculo de reproducción</string>
+    <string name="nowplaying_circle_style_wave">Onda</string>
+    <string name="nowplaying_circle_style_rainbow">Arco iris</string>
     <string name="similar_songs">Canciones similares</string>
     <string name="search_for_artist">Artista</string>
     <string name="search_for_album">Álbum</string>

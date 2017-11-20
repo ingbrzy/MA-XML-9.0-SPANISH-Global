@@ -55,6 +55,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="share_title">Compartir tiempo</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
     <string name="sunrise">Amanecer</string>
     <string name="sunset">Puesta de sol</string>
@@ -148,9 +149,11 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="install">Instalar</string>
     <string name="open">Abrir</string>
     <string name="open_now">Abrir</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">M/d</string>
     <string name="hourly_forecast_date">D/M</string>
     <string name="aqi_publish_source">Updated a las %1$s por CNEMC</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Desarrollado por Colorful Clouds</string>
     <string name="traffic_controls">Restricción vehicular</string>
     <string name="traffic_control_today_numbers">Hoy: %1$s</string>
@@ -163,10 +166,11 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="more_details">Más detalles</string>
     <string name="international_details_title">Detalles</string>
     <string name="international_details_wind_title">VIENTO</string>
-    <string name="international_details_real_feel_title">SENSACIÓN TÉRMICA®</string>
+    <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_uv_index_title">ÍNDICE UV</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="pressure_connect">%1$s mb</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">Avisos meteorológicas</string>
     <string name="edit_alert_city_title">Gestionar alertas</string>
     <string name="aqi_detail_unit">Unidad: µg/m³</string>
@@ -225,7 +229,7 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="feedback_sunny">Soleado</string>
     <string name="feedback_light_rain">Lluvia ligera</string>
     <string name="feedback_heavy_snow">Nieve</string>
-    <string name="feedback_overcast">Nublado</string>
+    <string name="feedback_overcast">Cubierto</string>
     <string name="feedback_heavy_rain">Lluvia intensa</string>
     <string name="feedback_sand">Arena</string>
     <string name="feedback_result_success">Enviado con éxito, gracias por tus comentarios.</string>
@@ -233,6 +237,8 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="minute_rain_pull_down_refresh">Desliza hacia abajo para actualizar</string>
     <string name="minute_rain_refreshing_now">Actualizando…</string>
     <string name="minute_rain_let_go_refresh">Suelta para actualizar</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">Detalles de la alerta</string>
     <string name="aqi_quality_map_title">Mapa de calidad del aire</string>
     <string name="aqi_station_min_distance_station">Estación más cercana</string>

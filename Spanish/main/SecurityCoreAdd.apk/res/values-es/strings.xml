@@ -246,6 +246,7 @@ para acceder desde la Pantalla de bloqueo"</string>
     <string name="no_match_repate_scanner">No se pudo verificar la huella, escanee de nuevo</string>
     <string name="delete_phone_fingerprint">Eliminar huella del Segundo espacio</string>
     <string name="delete_fingerprint">Eliminar huella</string>
+    <string name="fingerprint_number_upper_limit">Demasiados intentos fallidos de bloqueo</string>
     <string name="delete_fingerprint_desc">Se eliminará la huella del Segundo espacio junto con la contraseña</string>
     <string name="fingerprint_removal_failed">No se pudo eliminar la huella</string>
     <string name="notification_recommend_title">Top 12 aplicaciones para el Segundo espacio</string>
@@ -286,7 +287,8 @@ para acceder al Segundo espacio desde la Pantalla de bloqueo"</string>
     <string name="can_not_switch_when_calling">No se pueden cambiar los espacios durante una llamada</string>
     <string name="can_not_delete_when_calling">No se pueden eliminar espacios durante una llamada</string>
     <string name="support_desc">Servicios de Seguridad desarrollados por Graphite</string>
-    <string name="sdcardfs_dialog_message">Desactivar \"optimización de la tarjeta SD emulada\" en las opciones de desarrollador antes de entrar en el Segundo espacio.</string>
+    <string name="sdcardfs_dialog_title">Important update</string>
+    <string name="sdcardfs_dialog_message">MIUI 9 has a new file system. Old data might be incompatible with it. To solve this issue, follow the steps to install an update. Your device will reboot twice during this update.</string>
     <string name="do_not_ask">No preguntar de nuevo</string>
     <string name="gpg_message">Crear aplicaciones duales para juegos requiere Google Play Games. ¿Crear una aplicación dual para Google Play Games?</string>
     <string name="gpg_title">App dual para Google Play Juegos</string>
@@ -313,4 +315,15 @@ para acceder al Segundo espacio desde la Pantalla de bloqueo"</string>
 Dos espacios. Un dispositivo."</string>
     <string name="privacy_password_fingerprint_dialog_title">Escanea tu huella</string>
     <string name="privacy_password_fingerprint_dialog_message">Pon tu dedo en el sensor</string>
+    <string name="optimize_now">Optimizar</string>
+    <string name="dialog_title">Atención</string>
+    <string name="remove_user_click_message">"*If you don't have any important items in Second space, %s"</string>
+    <string name="remove_user_click_message_action">you can delete Second space and reboot your device now.</string>
+    <string name="sdcradfs_dialog_in_owner_title">Second space</string>
+    <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 has a new file system. Old data might be incompatible with it. To update, move items from Second space, reboot your device, and create Second space again.
+If you don't update, dual apps might not work properly as well."</string>
+    <string name="sdcradfs_dialog_in_sec_title">Important update</string>
+    <string name="sdcradfs_dialog_in_sec_message">"To update, you should delete your Second space, and then create it again. Move the data from Second space to First space, and reboot your device to complete the update.
+If you don't update, dual apps might not work properly as well."</string>
+    <string name="space_created_success">Created Second space successfully</string>
 </resources>

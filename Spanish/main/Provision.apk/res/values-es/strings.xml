@@ -71,4 +71,7 @@ ebes aceptar nuestros Términos de Servicio y Política de Privacidad antes de u
     <string name="two_dimensional_code_scan">Escanear código QR</string>
     <string name="user_strayed_warning">La página está diseñada para pruebas de fábrica, haz clic en el botón trasero para salir.</string>
     <string name="fail_to_generate_qr_code">No se pudo generar código QR. Abre esta página de nuevo.</string>
+    <string name="enable_accessibility_canceled">Accesibilidad cancelada.</string>
+    <string name="accessibility_enabled">Accesibilidad activada.</string>
+    <string name="continue_to_enable_accessibility">Mantenga presionado dos dedos para activar la accesibilidad.</string>
 </resources>

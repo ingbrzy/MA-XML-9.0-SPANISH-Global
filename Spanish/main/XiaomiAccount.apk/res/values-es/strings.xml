@@ -19,7 +19,7 @@
     <string name="passport_reg_via_sms_alert">Puede que se requiera un SMS saliente para activar este servicio. Su operadora le cobrará por este mensaje.</string>
     <string name="passport_reg_using_other_phone"><u>Use un número de teléfono alternativo</u></string>
     <string name="passport_reg_btn_using_other_phone">Use un número de teléfono alternativo</string>
-    <string name="passport_downlink_reg">Crear cuenta usando el número de teléfono</string>
+    <string name="passport_downlink_reg">Número de teléfono</string>
     <string name="passport_select_reg_ways_title">Otras formas de iniciar sesión</string>
     <string name="passport_reg_using_phone_number_prompt">Crear cuenta usando el número de teléfono</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Crear una nueva cuenta usando "</string>
@@ -213,7 +213,7 @@ Para activar su cuenta, siga el
     <string name="account">Cuenta</string>
     <string name="logout_failed">No se pudo cerrar sesión</string>
     <string name="turn_off_find_device_failed_title">No se pudo desactivar Encontrar dispositivo</string>
-    <string name="no_response_retry">No hay respuesta, por favor, reinténtalo.</string>
+    <string name="no_response_retry">Sin respuesta, inténtelo de nuevo.</string>
     <string name="removing_account">Cerrando sesión…</string>
     <string name="delete_bank_card_title">Eliminando tu tarjeta bancaria</string>
     <string name="delete_bank_card_message">Tu tarjeta bancaria será eliminada por razones de seguridad después de que finalices la sesión</string>
@@ -328,7 +328,7 @@ Para activar su cuenta, siga el
     <string name="loading_micloud_sync_data">Un momento…</string>
     <string name="activity_not_found_notice">No se pudo localizar la aplicación</string>
     <string name="scan_barcode_title">Inicia sesión en Mi Cuenta escaneando el código QR</string>
-    <string name="talkback_scan_barcode">escanea el código QR</string>
+    <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="authorize_title">Autorización</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="device_list_title">Mis dispositivos</string>
@@ -440,4 +440,5 @@ Para activar su cuenta, siga el
     <string name="account_token_expired_msg">"El código de verificación ha caducado. Comienza de nuevo o cierra sesión
  Tu ID de cuenta: %s"</string>
     <string name="bind_safe_phone_msg">Añade tu número de teléfono para poder iniciar sesión en Mi Cuenta la próxima vez.</string>
+    <string name="account_notification_message">Sesión expirada, inicia sesión de nuevo.</string>
 </resources>

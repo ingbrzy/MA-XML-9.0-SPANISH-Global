@@ -38,6 +38,7 @@
     <string name="translation_query_error">No se pudieron encontrar resultados</string>
     <string name="translation_query_error_network">No se pudo obtener la info, revise su conexión de red e inténtelo de nuevo</string>
     <string name="translation_more">Más</string>
+    <string name="autofill">Autocompletar</string>
     <string name="auto_start_warning_title">¿Permitir que %s inicie de forma automática?</string>
     <string name="auto_start_warning_allow">Permitir</string>
     <string name="auto_start_warning_deny">Rechazar</string>

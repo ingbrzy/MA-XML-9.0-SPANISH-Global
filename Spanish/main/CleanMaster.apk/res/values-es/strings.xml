@@ -384,9 +384,9 @@
     <string name="load_only_under_wlan">Cargar usando sólo Wi-Fi</string>
     <string name="recommend_news">Recibir recomendaciones</string>
     <string name="dialog_title_stop_scan">Detener el escaneo</string>
-    <string name="dialog_msg_stop_scan">¿Detener la exploración de limpieza en curso?</string>
+    <string name="dialog_msg_stop_scan">¿Detener escaneo ahora?</string>
     <string name="dialog_title_esc_cleanmaster">Salir del Limpiador</string>
-    <string name="dialog_msg_esc_cleanmaster">¿Detener la exploración de limpieza en curso?</string>
+    <string name="dialog_msg_esc_cleanmaster">¿Detener análisis y salir ahora del Limpiador?</string>
     <string name="pref_category_title_engine_settings">Configurar la definición de escaneo</string>
     <string name="pref_title_choose_engine">Definiciones</string>
     <string name="recommend_the_following">Realiza las siguientes acciones para aprovechar al máximo tu dispositivo</string>
@@ -466,12 +466,12 @@
     <string name="file_not_found">Archivo no encontrado</string>
     <string name="app_usage_never">No usado recientemente</string>
     <string name="app_usage_recently">Usado recientemente</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> más archivos pueden ser limpiados. Libera más espacio.;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> más archivos pueden ser limpiados. Libera más espacio.</Data>" "</string>
     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> de caché de WeChat. Libera más espacio.;</Data>" "</string>
     <string name="resutl_function_qq_clean_summary">" "<Data>Puedes borrar &lt;font color=#ff0000 >%1$s&lt;/font> del caché generado por QQ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Acerca del Limpiador</string>
     <string name="app_description_content">Limpiador encuentra basura en tu dispositivo y libera espacio de almacenamiento. Asegúrate de de no necesitar estas funciones antes de desinstalar la app.</string>
-    <string name="engine_init">Inicializando...</string>
+    <string name="engine_init">Iniciando…</string>
 </resources>

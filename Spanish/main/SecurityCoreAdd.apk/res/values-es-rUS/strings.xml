@@ -245,6 +245,7 @@ De lo contrario podría no ser capaz de acceder al Segundo espacio desde Pantall
     <string name="no_match_repate_scanner">No se pudo verificar huella, escanee de nuevo</string>
     <string name="delete_phone_fingerprint">Eliminar huella del Segundo espacio</string>
     <string name="delete_fingerprint">Eliminar huella</string>
+    <string name="fingerprint_number_upper_limit">Demasiados intentos de desbloqueo fallidos</string>
     <string name="delete_fingerprint_desc">La huella del Segundo espacio será eliminada junto con la contraseña</string>
     <string name="fingerprint_removal_failed">No se pudo eliminar huella</string>
     <string name="notification_recommend_title">Top 12 apps para el Segundo espacio</string>
@@ -285,7 +286,8 @@ para acceder al Segundo espacio desde la Pantalla de Bloqueo"</string>
     <string name="can_not_switch_when_calling">No se puede cambiar entre espacios durante una llamada</string>
     <string name="can_not_delete_when_calling">No se pueden eliminar espacios durante una llamada</string>
     <string name="support_desc">Servicios de Seguridad desarrollados por Graphite</string>
-    <string name="sdcardfs_dialog_message">Desactivar \"Optimización de emulación de la tarjeta SD\" en las opciones de desarrollador antes de entrar en el Segundo espacio.</string>
+    <string name="sdcardfs_dialog_title">Actualización importante</string>
+    <string name="sdcardfs_dialog_message">MIUI 9 tiene un nuevo sistema de archivos. Los datos antiguos podrían no ser compatibles con este. Para resolver este problema, siga los pasos para instalar una actualización. Su dispositivo se reiniciará dos veces durante esta.</string>
     <string name="do_not_ask">No preguntar de nuevo</string>
     <string name="gpg_message">Crear apps duales para juegos requiere el uso de Google Play Juegos. ¿Crear una app dual para Google Play Juegos?</string>
     <string name="gpg_title">App dual para Google Play Juegos</string>
@@ -312,4 +314,15 @@ para acceder al Segundo espacio desde la Pantalla de Bloqueo"</string>
 Dos espacios. Un dispositivo."</string>
     <string name="privacy_password_fingerprint_dialog_title">Escanear su huella dactilar</string>
     <string name="privacy_password_fingerprint_dialog_message">Ponga su dedo en el sensor</string>
+    <string name="optimize_now">Optimizar</string>
+    <string name="dialog_title">Atención</string>
+    <string name="remove_user_click_message">*Si no tiene ningún ítem importante en el Segundo espacio, %s</string>
+    <string name="remove_user_click_message_action">puede eliminar el Segundo espacio y reiniciar su dispositivo ahora.</string>
+    <string name="sdcradfs_dialog_in_owner_title">Segundo espacio</string>
+    <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 tiene un nuevo sistema de archivos. Los datos antiguos podrían no ser compatibles con este. Para actualizar, mueva los ítems del Segundo espacio, reinicie su dispositivo y cree el Segundo espacio de nuevo.
+Si no actualiza, las apps duales tampoco funcionarán correctamente."</string>
+    <string name="sdcradfs_dialog_in_sec_title">Actualización importante</string>
+    <string name="sdcradfs_dialog_in_sec_message">"Para actualizar, debe eliminar su Segundo espacio y luego crearlo de nuevo. Mueva los datos del Segundo espacio al Primer espacio y reinicie su dispositivo para completar la actualización.
+Si no actualiza, las apps duales tampoco funcionarán correctamente."</string>
+    <string name="space_created_success">Segundo espacio creado con éxito</string>
 </resources>

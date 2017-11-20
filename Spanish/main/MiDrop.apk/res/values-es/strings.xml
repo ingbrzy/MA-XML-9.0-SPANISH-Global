@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">NO</string>
+    <string name="abc_capital_on">SÍ</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="common_google_play_services_enable_button">Habilitar</string>
     <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
     <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
@@ -20,6 +39,8 @@
     <string name="common_open_on_phone">Abrir en teléfono</string>
     <string name="common_signin_button_text">Iniciar sesión</string>
     <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="app_name">Mi Drop</string>
     <string name="cancel_confirm">Cancelar transferencia</string>
     <string name="cancel_lang">Cancelar</string>
@@ -46,6 +67,14 @@
     <string name="enable_hotspot">Punto de acceso Wi-Fi activado correctamente</string>
     <string name="exit">Salir</string>
     <string name="file_count">%1$d</string>
+    <string name="file_size_b">%1$d B</string>
+    <string name="file_size_gb">%2$1.2f GB</string>
+    <string name="file_size_kb">%2$1.2f KB</string>
+    <string name="file_size_mb">%2$1.2f MB</string>
+    <string name="file_speed_b">%1$d B/s</string>
+    <string name="file_speed_gb">%2$1.2f GB/s</string>
+    <string name="file_speed_kb">%2$1.2f KB/s</string>
+    <string name="file_speed_mb">%2$1.2f MB/s</string>
     <string name="files_selected">Seleccionado</string>
     <string name="files_selected_count">Archivos seleccionados: %1$d | Total: %2$s</string>
     <string name="help">Ayuda</string>
@@ -125,7 +154,7 @@ Comprueba la configuración de red e inténtalo de nuevo."</string>
     <string name="sender_wait">Enviando archivos…</string>
     <string name="sender_wait_queue">A punto de enviar…</string>
     <string name="setting_now">Establecer</string>
-    <string name="share_desc">Así se comparte Mi Drop:</string>
+    <string name="share_desc">Compartir Mi Drop sin usar datos móviles</string>
     <string name="share_mi_drop">Compartir Mi Drop con tus amigos</string>
     <string name="step_1">"Paso 1: 
 Pide a la persona que se conecte al Wi-Fi."</string>
@@ -137,7 +166,6 @@ Pide a la persona que introduzca esta dirección en el navegador:"</string>
     <string name="storage_usb">Almacenamiento USB</string>
     <string name="trans_progress_finish">Listo</string>
     <string name="trans_progress_percent">%1$s%%</string>
-    <string name="trans_speed">%1$s/s</string>
     <string name="transfer_cancel">Transferencia cancelada</string>
     <string name="transfer_fail_desc">La conexión de red ha sido interrumpida o la transferencia ha sido cancelada por la otra persona.</string>
     <string name="transfer_failed">No se pudo transferir</string>
@@ -156,6 +184,8 @@ Pide a la persona que introduzca esta dirección en el navegador:"</string>
     <string name="version">Versión</string>
     <string name="want_receive">Recibir archivos</string>
     <string name="want_send">Enviar archivos</string>
-    <string name="wifi_name">Wi-Fi:</string>
+    <string name="wifi_name">Nombre de Wi-Fi:</string>
     <string name="wifi_psw">Contraseña:</string>
+    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
+    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
 </resources>

@@ -451,7 +451,7 @@ Para obtener más espacio de almacenamiento, visite mi.com/micloud."</string>
     <string name="micloud_sync_alert_dialog_positive">Aceptar</string>
     <string name="micloud_battery_low_notification_title">Batería baja</string>
     <string name="micloud_battery_low_notification_message">Conecte el cargador para sincronizar</string>
-    <string name="micloud_upgrade_member">Obtenga más espacio de almacenamiento</string>
+    <string name="micloud_upgrade_member">Obtener almacenamiento</string>
     <string name="micloud_notif_content_depend_wifi">Conéctese a Wi-Fi para sincronizar.</string>
     <string name="micloud_notif_title_master_depend_wifi">No se pudo sincronizar con MI Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">Primero conéctese a la red Wi-Fi.</string>

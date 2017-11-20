@@ -122,9 +122,9 @@
     <string name="config_scenario_policies_title">Escenas</string>
     <string name="scenario_policies_summary">Aplicar diferentes estrategias de ahorro de energía para las diferentes escenas.</string>
     <string name="sleep_config_enhance_title">Modo de suspensión</string>
-    <string name="sleep_config_enhance_description">Cuando MIUI detecta que se está durmiendo, cerrará las apps en segundo plano, restringirá NFC, Bluetooth, GPS, datos móviles y uso Wi-Fi y no iluminará la pantalla para notificaciones.</string>
+    <string name="sleep_config_enhance_description">Cuando MIUI detecta que se está durmiendo, cerrará las apps en segundo plano, restringirá NFC, Bluetooth, GPS, datos móviles y uso de Wi-Fi, y no encenderá la pantalla para notificaciones.</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>
-    <string name="nonui_mode_config_description">No encender la pantalla para notificaciones, apagar la luz de notificación, las huellas dactilares y los controles táctiles cuando el dispositivo esté en un bolsillo.</string>
+    <string name="nonui_mode_config_description">No encender la pantalla para notificaciones, desactivar la luz LED, sensor de huella dactilar y controles táctiles para ahorrar batería cuando MIUI detecte que no está usando su dispositivo.</string>
     <string name="scenario_policies_warmcontrol">Control de temperatura</string>
     <string name="warm_configure">Ajustes del control de temperatura</string>
     <string name="important_warning">Atención</string>
@@ -200,6 +200,6 @@ El economizador de batería tratará de forma selectiva las apps importantes."</
     <string name="failure">Hubo un error</string>
     <string name="cloud_addr_info">Info de Cloud</string>
     <string name="lasttime_feature_cloud">Funciones actualizadas:</string>
-    <string name="lasttime_applist_cloud">Lista de apps actualizada:</string>
+    <string name="lasttime_applist_cloud">Apps actualizadas:</string>
     <string name="base_info">Info básica</string>
 </resources>

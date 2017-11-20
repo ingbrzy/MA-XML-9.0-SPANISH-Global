@@ -57,8 +57,9 @@
     <string name="input_password_after_boot_msg">Para desbloquear el dispositivo, introduce la contraseña</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Es necesario entrar al Primer espacio después de haber reiniciado el dispositivo</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">No se pueden cambiar los espacios durante una llamada</string>
-    <string name="input_password_handle_sdcard_fs">Desactiva \"Optimización de la tarjeta SD de emulación\" antes de entrar en el Segundo espacio.</string>
+    <string name="input_password_handle_sdcard_fs">No se puede entrar al Segundo espacio desde la Pantalla de bloqueo. Entra desde el Primer espacio.</string>
     <string name="accessibility_enter_lock_wallpaper">Toca para abrir el Fondo de pantalla Carrusel</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">Suelte para ver los detalles</string>
     <string name="lock_wallpaper_learn_more">Más</string>
     <string name="lock_wallpaper_enter">Introducir</string>
     <string name="custom_lock_wallpaper_enter">Introducir</string>
@@ -86,10 +87,6 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_left_smarthome">Mi Home</string>
-    <string name="keyguard_left_remotecentral">Mi control remoto</string>
-    <string name="keyguard_left_bankcard">Mi Pago</string>
-    <string name="keyguard_left_buscard">Tarjeta de transporte</string>
     <string name="face_data_input_title">Añadir datos faciales</string>
     <string name="face_data_introduction_title">Reconocimiento facial</string>
     <string name="face_data_introduction_msg">Los datos faciales pueden ser usados para desbloquear tu dispositivo o verificar tu identidad. Añade una contraseña en la pantalla de bloqueo antes de añadir datos faciales.</string>

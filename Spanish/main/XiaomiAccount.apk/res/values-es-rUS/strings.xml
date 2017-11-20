@@ -19,7 +19,7 @@
     <string name="passport_reg_via_sms_alert">Puede que se requiera un SMS saliente para activar este servicio. Su operador le cobrará por este mensaje.</string>
     <string name="passport_reg_using_other_phone"><u>Use un número telefónico alternativo</u></string>
     <string name="passport_reg_btn_using_other_phone">Usar número telefónico alternativo</string>
-    <string name="passport_downlink_reg">Crear una cuenta usando el número telefónico</string>
+    <string name="passport_downlink_reg">Número telefónico</string>
     <string name="passport_select_reg_ways_title">Otras formas de registrarse</string>
     <string name="passport_reg_using_phone_number_prompt">Crear una cuenta usando el número telefónico</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Crear una cuenta nueva usando "</string>
@@ -213,7 +213,7 @@ Para activar su cuenta, siga el
     <string name="account">Cuenta</string>
     <string name="logout_failed">No se pudo cerrar sesión</string>
     <string name="turn_off_find_device_failed_title">No se pudo desactivar la búsqueda de dispositivo</string>
-    <string name="no_response_retry">No hay respuesta, vuelve a intentarlo.</string>
+    <string name="no_response_retry">No responde, inténtelo de nuevo.</string>
     <string name="removing_account">Cerrando sesión…</string>
     <string name="delete_bank_card_title">Eliminando su tarjeta bancaria</string>
     <string name="delete_bank_card_message">Su tarjeta bancaria será eliminada por razones de seguridad después de que finalice la sesión</string>
@@ -326,9 +326,9 @@ Para activar su cuenta, siga el
     <string name="mi_vip_info">Ver privilegios</string>
     <string name="vip_settings_info">Ajustes VIP</string>
     <string name="loading_micloud_sync_data">Espere un momento…</string>
-    <string name="activity_not_found_notice">No se puede localizar la app</string>
+    <string name="activity_not_found_notice">No se puede encontrar la app</string>
     <string name="scan_barcode_title">Entre de forma segura en su Mi Cuenta escaneando el código QR desde la página web o la TV</string>
-    <string name="talkback_scan_barcode">escanear código QR</string>
+    <string name="talkback_scan_barcode">Escanear código QR</string>
     <string name="authorize_title">Autorización</string>
     <string name="my_device_title">Dispositivo actual</string>
     <string name="device_list_title">Mis dispositivos</string>
@@ -440,4 +440,5 @@ Para activar su cuenta, siga el
     <string name="account_token_expired_msg">"Código de verificación expiró, iniciar de nuevo o cerrar sesión
 ID de su cuenta: %s"</string>
     <string name="bind_safe_phone_msg">Añadir su número telefónico para poder iniciar sesión en Mi Cuenta la próxima vez.</string>
+    <string name="account_notification_message">Sesión expirada. inicie sesión de nuevo.</string>
 </resources>

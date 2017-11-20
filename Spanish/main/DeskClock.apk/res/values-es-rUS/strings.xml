@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">Reproducir \"Feliz cumpleaños\" en lugar de sonido de la alarma por defecto en su cumpleaños</string>
     <string name="turn_off_a_repeat_alarm">Desactivar repetición de la alarma</string>
     <string name="skip_alarm_once_hint">Desactivar una vez en %s</string>
+    <string name="skip_alarm_date_format">%1$s(%2$s)</string>
     <string name="turn_off_this_repeat_alarm">Desactivar esta alarma repetida</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">mañana</string>

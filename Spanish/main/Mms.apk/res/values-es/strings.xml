@@ -125,6 +125,7 @@
     <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
     <string name="delivery_report_activity">Informe de entrega</string>
     <string name="delivery_toast_body">Mensaje recibido de %s</string>
+    <string name="dialog_message_sms_report">"Spam messages and sender's info will be uploaded to MIUI when you report them. They will only be used to improve MIUI's spam filters."</string>
     <string name="disable_notifications_dialog_message">¿Dejar de duplicar las notificaciones de mensajes de texto por defecto de la aplicación Mensajería?</string>
     <string name="disabled">Desactivado</string>
     <string name="discard">Descartar</string>
@@ -178,6 +179,7 @@
     <string name="file_size">Tamaño:</string>
     <string name="file_title">Nombre:</string>
     <string name="file_width_height">Tamaño:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nuevo mensaje</string>
     <string name="forward_from">Reenviado de:</string>
     <string name="forward_prefix">"Fwd: "</string>
@@ -374,7 +376,7 @@
     <string name="pref_hide_verification_code_summary">Ocultar automáticamente la contraseña de una vez en la notificación de mensaje en la Pantalla de bloqueo segura</string>
     <string name="pref_messages_to_save">Establezca el número de mensajes que quiere guardar</string>
     <string name="pref_mms_settings_title">Mensajes multimedia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Mensajes eliminados recientemente</string>
+    <string name="pref_msg_trash_bin_title">SMS Trash</string>
     <string name="pref_notification_settings_title">Notificaciones</string>
     <string name="pref_other_title">Ajustes adicionales</string>
     <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueados en la lista de conversaciones</string>
@@ -387,6 +389,7 @@
     <string name="pref_sms_storage_title">Almacenamiento</string>
     <string name="pref_sms_theme_title">Mostrar</string>
     <string name="pref_summary_allow_si_sl_push">Permitir a los mensajes cargar el contenido de los sitios web</string>
+    <string name="pref_summary_allow_upload_message_info">"Spam messages and sender's info will be uploaded to MIUI when you report them."</string>
     <string name="pref_summary_auto_delete">Eliminar mensajes antiguos cuando se alcance el límite</string>
     <string name="pref_summary_delete_limit">%1$s mensajes por conversación</string>
     <string name="pref_summary_delivery_reports">Mostrar el estado de la entrega de los mensajes enviados</string>
@@ -404,6 +407,7 @@
     <string name="pref_system_title">Sistema</string>
     <string name="pref_title_about_smart_sms">Acerca de los Mensajes inteligentes asociados</string>
     <string name="pref_title_allow_si_sl_push">Permitir la transferencia y notificación de mensajes WAP (SI/SL)</string>
+    <string name="pref_title_allow_upload_message_info">Upload spam messages</string>
     <string name="pref_title_auto_delete">Eliminar mensajes antiguos</string>
     <string name="pref_title_card_format">Formato para compartir tarjeta</string>
     <string name="pref_title_delivery_reports">Estado de la entrega</string>
@@ -525,6 +529,7 @@
     <string name="send_signature_confirm_dialog_title">Enviar mensaje</string>
     <string name="send_sms">Enviar mensaje</string>
     <string name="send_to">Para:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Enviado a las: %1s</string>
     <string name="sent_label">"Enviado: "</string>
     <string name="service_message_not_found">Mensaje expirado o no disponible</string>
@@ -556,6 +561,7 @@
     <string name="sms_full_title">Memoria de mensajes de texto llena</string>
     <string name="sms_rejected_body">Se ha rechazado un mensaje de texto entrante.</string>
     <string name="sms_rejected_title">Mensaje de texto rechazado</string>
+    <string name="sms_report">Report spam messages</string>
     <string name="sms_report_dialog_content">No se pudo enviar el informe. Inténtalo de nuevo.</string>
     <string name="sms_report_dialog_retry">Inténtalo de nuevo</string>
     <string name="sms_report_dialog_title">Inténtalo de nuevo</string>

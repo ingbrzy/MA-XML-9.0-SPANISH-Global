@@ -46,7 +46,7 @@
     <string name="rename_duplicate">Ya existe otra grabación con el mismo nombre.</string>
     <string name="rename_no_more_tip">No mostrar de nuevo</string>
     <string name="dialog_title_storage_full">No hay suficiente espacio</string>
-    <string name="dialog_content_storage_full">La grabación se ha detenido porque no queda espacio suficiente en la memoria interna de su dispositivo.</string>
+    <string name="dialog_content_storage_full">La grabación se ha detenido porque no queda espacio suficiente en la memoria interna.</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_back">Pulse para volver a la grabadora</string>
     <string name="status_bar_recording_pause">Grabación en pausa</string>

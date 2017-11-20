@@ -50,13 +50,16 @@
         <item>Cuando el dispositivo esté bloqueado o después de salir de la app</item>
         <item>Cuando el dispositivo esté bloqueado o 1 minuto después de salir de la app</item>
     </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Estado</item>
         <item>Nombre de la app</item>
         <item>Frecuencia de uso</item>
         <item>Almacenamiento usado</item>
-        <item>Uso de datos</item>
-        <item>Uso de batería</item>
         <item>Hora de instalación</item>
     </string-array>
     <string-array name="sort_title">
@@ -64,9 +67,7 @@
         <item>Ordenar por nombre de app</item>
         <item>Ordenar por frecuencia de uso</item>
         <item>Ordenar por almacenamiento usado</item>
-        <item>Ordenar por uso de datos</item>
-        <item>Ordenar por uso de batería</item>
-        <item>Ordenar por hora de instalación</item>
+        <item>Ordenar por fecha de instalación</item>
     </string-array>
     <string-array name="key_app_info">
         <item>install_source</item>
@@ -125,5 +126,10 @@
         <item>No vibrar nunca</item>
         <item>Vibrar en modo silencio</item>
         <item>Vibrar siempre</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

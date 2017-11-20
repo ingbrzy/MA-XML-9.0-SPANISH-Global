@@ -68,7 +68,7 @@
     <string name="HIPS_Perm_use_sip">Servicios de video</string>
     <string name="HIPS_Perm_use_sip_Desc">usar el Protocolo de Inicio de Sesión para transmitir el video</string>
     <string name="HIPS_Perm_process_outgoing_calls">Acceder a la app del teléfono</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorear y finalizar llamadas</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">contestar, monitorear y finalizar llamadas</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">acceso al hardware NFC</string>
     <string name="HIPS_Perm_install_shortcut">Accesos directos en la pantalla de inicio</string>
@@ -90,16 +90,16 @@
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_settings_related">Ajustes</string>
     <string name="ok">OK</string>
-    <string name="default_permission_description">realizar una acción desconocida</string>
-    <string name="location_settings">Ajustes de la ubicación</string>
+    <string name="default_permission_description">realizar acciones desconocidas</string>
+    <string name="location_settings">Ajustes de ubicación</string>
     <string name="location_warning">%1$s es un proveedor de servicios de ubicación para este dispositivo. El acceso de la ubicación se puede modificar en los ajustes de la ubicación.</string>
-    <string name="permission_warning_template">¿Desea permitir %1$s a %2$s?</string>
+    <string name="permission_warning_template">¿Permitir a %1$s %2$s?</string>
     <string name="permission_warning_template_ask">¿Dar a %1$s los siguientes permisos?</string>
     <string name="screen_overlay_title">Se detectó una superposición de pantalla</string>
-    <string name="screen_overlay_message">Para cambiar los ajustes de este permiso, primero tiene que desactivar la superposición de pantallas en los ajustes > Apps</string>
+    <string name="screen_overlay_message">Para cambiar este permiso, debe desactivar la pantalla superpuesta en Ajustes > Apps.</string>
     <string name="screen_overlay_button">Abrir ajustes</string>
     <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_deny">Rechazar</string>
     <string name="current_permission_template">%1$s de %2$s</string>
-    <string name="never_ask_again">No volver a preguntar</string>
+    <string name="never_ask_again">No preguntar de nuevo</string>
 </resources>

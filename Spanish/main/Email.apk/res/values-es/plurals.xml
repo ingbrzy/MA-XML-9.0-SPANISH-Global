@@ -17,8 +17,8 @@
         <item quantity="one">La conversación contiene múltiples mensajes, ¿Eliminar de todos modos?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
-        <item quantity="other">Delete %1$d drafts?</item>
-        <item quantity="one">Delete %1$d draft?</item>
+        <item quantity="other">¿Borrar %1$d borradores?</item>
+        <item quantity="one">¿Borrar %1$d borrador?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d elementos seleccionados</item>
@@ -37,8 +37,8 @@
         <item quantity="one">Cambiar carpeta.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">+%1$d people</item>
-        <item quantity="one">+%1$d person</item>
+        <item quantity="other">+%1$d personas</item>
+        <item quantity="one">+%1$d persona</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">%1$d conversaciones ignoradas.</item>

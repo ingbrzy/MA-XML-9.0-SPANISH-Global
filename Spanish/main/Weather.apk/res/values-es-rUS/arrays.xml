@@ -60,10 +60,10 @@
     <string-array name="weather_type">
         <item>Despejado</item>
         <item>Nublado</item>
-        <item>Nublado</item>
+        <item>Cubierto</item>
         <item>Niebla</item>
         <item>Tormentas de lluvia fuerte</item>
-        <item>Tormentas de lluvia</item>
+        <item>Aguacero</item>
         <item>Tormentas de lluvia</item>
         <item>Tormenta eléctrica</item>
         <item>Lluvia</item>
@@ -71,12 +71,12 @@
         <item>Lluvia moderada</item>
         <item>Llovizna</item>
         <item>Aguanieve</item>
-        <item>Tormenta de nieve</item>
+        <item>Ventisca</item>
         <item>Nieve</item>
         <item>Nevada intensa</item>
         <item>Nevada moderada</item>
-        <item>Nevada ligera</item>
-        <item>Fuerte tormenta de arena</item>
+        <item>Nieve ligera</item>
+        <item>Tormenta de arena fuerte</item>
         <item>Tormenta de arena</item>
         <item>Arena</item>
         <item>Viento</item>

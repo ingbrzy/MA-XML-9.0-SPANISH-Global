@@ -149,6 +149,17 @@
         <item>Muy veloz</item>
         <item>Rapidísimo</item>
     </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>Vibrante (predefinido)</item>
         <item>Natural</item>
@@ -194,8 +205,8 @@
     <string-array name="weather_type">
         <item>Soleado</item>
         <item>Nublado</item>
-        <item>Clima</item>
-        <item>Neblinoso</item>
+        <item>Cubierto</item>
+        <item>Niebla</item>
         <item>Tormentas de lluvia fuerte</item>
         <item>Aguacero</item>
         <item>Tormenta de lluvia</item>
@@ -209,7 +220,7 @@
         <item>Nieve</item>
         <item>Nevada intensa</item>
         <item>Nevada moderada</item>
-        <item>Nevada ligera</item>
+        <item>Nieve ligera</item>
         <item>Tormenta de arena fuerte</item>
         <item>Tormenta de arena</item>
         <item>Arena</item>

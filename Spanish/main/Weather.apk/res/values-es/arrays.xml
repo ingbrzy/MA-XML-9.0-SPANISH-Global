@@ -71,7 +71,7 @@
         <item>Lluvia moderada</item>
         <item>Lluvia ligera</item>
         <item>Lluvia y nieve</item>
-        <item>Tormenta de nieve</item>
+        <item>Ventisca</item>
         <item>Nieve</item>
         <item>Nieve intensa</item>
         <item>Nieve moderada</item>
@@ -82,7 +82,7 @@
         <item>Ventoso</item>
         <item>Granizo</item>
         <item>Calina</item>
-        <item>Bruma</item>
+        <item>Neblina</item>
         <item>Aguanieve</item>
         <item></item>
     </string-array>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d llamadas</item>
-        <item quantity="one">%d llamada</item>
+        <item quantity="other">%1$d llamadas de %2$s</item>
+        <item quantity="one">%1$d llamada de %2$s</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mensajes</item>
@@ -204,6 +204,10 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="other">"Espera %d segundos e inténtalo de nuevo. "</item>
         <item quantity="one">"Espera %d segundo e inténtalo de nuevo. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicaciones bloqueadas</item>
         <item quantity="one">%d aplicación bloqueada</item>
@@ -211,6 +215,14 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     <plurals name="number_to_lock">
         <item quantity="other">%d aplicaciones no bloqueadas</item>
         <item quantity="one">%d aplicación no bloqueada</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d notificaciones ocultas</item>
+        <item quantity="one">%d notificación oculta</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notificaciones ocultas</item>
+        <item quantity="one">%d notificación oculta</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>

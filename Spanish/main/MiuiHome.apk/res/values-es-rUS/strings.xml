@@ -9,8 +9,8 @@
     <string name="bad_wallpaper_source_prompt">No es posible cargar fondos</string>
     <string name="apply_action">Establecer</string>
     <string name="download_action">Descargar</string>
-    <string name="lock_screen_failed_message">No se puedo aplicar fondo de pantalla de bloqueo</string>
-    <string name="lock_screen_success_message">Aplicado a la pantalla de bloqueo</string>
+    <string name="lock_screen_failed_message">No se puede establecer el fondo de la Pantalla de bloqueo</string>
+    <string name="lock_screen_success_message">Aplicado a la Pantalla de bloqueo</string>
     <string name="wallpaper_failed_message">No se pudo establecer el fondo de escritorio</string>
     <string name="launcher_not_exist">Ha ocurrido un error, vuelva a la Pantalla de inicio e inténtelo de nuevo.</string>
     <string name="image_too_small_message">La imagen original no es lo suficientemente grande</string>
@@ -73,7 +73,7 @@
     <string name="uninstall_xspace_dialog_title_format">¿Desinstalar app dual \"%s\"?</string>
     <string name="uninstall_xspace_dialog_message">Desinstalar una app dual elimina todos los datos de la app.</string>
     <string name="uninstall_with_xspace_dialog_message">Las apps duales correspondientes se eliminarán junto con los datos de la app.</string>
-    <string name="confirm_uninstall_dialog_title">Se eliminarán las apps duales correspondientes.</string>
+    <string name="confirm_uninstall_dialog_title">Las apps duales serán desinstaladas</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">La app dual se desinstalará junto con esta.</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Las apps duales se desinstalarán junto con estas.</string>
     <string name="uninstall">Desinstalar</string>
@@ -114,7 +114,7 @@
     <string name="local_wallpaper">Descargado</string>
     <string name="setting_wallpaper_tip">Pinchar o deslizar para ajustar</string>
     <string name="apply_as_wallpaper">Establecer como fondo de pantalla</string>
-    <string name="apply_as_lock_screen">Establecer como fondo en la pantalla de bloqueo</string>
+    <string name="apply_as_lock_screen">Establecer como Pantalla de bloqueo</string>
     <string name="apply_both">Ambos</string>
     <string name="enable_wallpaper_scroll">Activar desplazamiento entre pantallas</string>
     <string name="disable_wallpaper_scroll">Desactivar desplazamiento entre pantallas</string>
@@ -248,7 +248,7 @@
     <string name="recommend_apps_tips">Esta característica necesita conectarse a Internet para trabajar normalmente. Para desactivar esta función, toque el nombre de esta carpeta.</string>
     <string name="wallpaper_auto_change_title">Pantalla de bloqueo</string>
     <string name="wallpaper_scaling_message">Redimensionando al tamaño adecuado</string>
-    <string name="cant_edit_lock_screen">No se puede editar el estilo de la pantalla de bloqueo.</string>
+    <string name="cant_edit_lock_screen">No se puede editar el estilo de la Pantalla de bloqueo.</string>
     <string name="screen_number">%d pantalla</string>
     <string name="delete_screen">Eliminar pantalla</string>
     <string name="add_screen">Añadir pantalla</string>
@@ -274,4 +274,5 @@
     <string name="menu_lock">Bloquear el diseño de la Pantalla de inicio</string>
     <string name="menu_more">Más</string>
     <string name="default_screen_preview_title">Pulse para establecer pantalla predeterminada</string>
+    <string name="action_add_to_workspace">Añadir a Espacio de trabajo</string>
 </resources>

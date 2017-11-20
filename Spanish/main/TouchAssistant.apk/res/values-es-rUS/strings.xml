@@ -13,8 +13,8 @@
     <string name="handy_mode_default_to_close_whether_open">Modo Una mano está desactivado de forma predeterminada. ¿Activar Modo Una mano?</string>
     <string name="hide_touch_assistant">Ocultar automáticamente</string>
     <string name="hide_touch_assistant_intro">Ocultar Bola flotante en apps seleccionadas.</string>
-    <string name="hide_when_fullscreen">Mueva hacia a un lado estando en Pantalla completa</string>
-    <string name="hide_when_fullscreen_intro">Mueva hacia a un lado cuando entre en Modo de Pantalla completa.</string>
+    <string name="hide_when_fullscreen">Mueva hacia un lado estando en Pantalla completa</string>
+    <string name="hide_when_fullscreen_intro">Mueva hacia un lado cuando entre en Modo de Pantalla completa.</string>
     <string name="motion_behavior">Gesto preferido</string>
     <string name="name_alipay_payment_code">Pago Alipay</string>
     <string name="name_alipay_scan">Escaner Alipay</string>

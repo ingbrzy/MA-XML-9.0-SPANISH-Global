@@ -160,7 +160,7 @@
     <string name="accessibility_shutter_button">Botón del obturador</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="accessibility_camera_picker">Interruptor para cambiar entre la cámara trasera y la delantera</string>
-    <string name="accessibility_stereo_button">Modo cámara doble</string>
+    <string name="accessibility_stereo_button">Ajuste de enfoque</string>
     <string name="pref_camera_autoexposure_title">Ajustes de auto exposición</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Promedio de fotogramas</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centrado</string>
@@ -320,13 +320,12 @@
     <string name="simple_mode_button_text_magic_mirror">Desactivar espejo mágico</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Alinear la flecha con la línea de referencia</string>
     <string name="pano_how_to_use_prompt_slow_down">Por favor, reduzca la velocidad</string>
-    <string name="pref_camera_stereo_mode_title">Stereo</string>
-    <string name="simple_mode_button_text_stereo_mode">Desactivar Estéreo</string>
+    <string name="pref_camera_stereo_mode_title">Ajuste de enfoque</string>
+    <string name="simple_mode_button_text_stereo_mode">Desactivar el Ajuste de enfoque</string>
     <string name="dual_camera_too_close_toast">La cámara está demasiado cerca del objeto.</string>
     <string name="dual_camera_lowlight_toast">Parece que está muy oscuro.</string>
     <string name="dual_camera_lens_covered_toast">La lente está cubierta.</string>
-    <string name="dual_camera_use_hint">"El modo estéreo ayuda a difuminar el fondo.
-El objeto no debe estar a más de 2 metros."</string>
+    <string name="dual_camera_use_hint">Asegúrese de que el objeto no esté a más de 2 metros.</string>
     <string name="pref_camera_square_mode_title">Cuadrado</string>
     <string name="simple_mode_button_text_square">Desactivar Cuadrado</string>
     <string name="face_beauty_smart">Inteligente</string>
@@ -340,6 +339,7 @@ El objeto no debe estar a más de 2 metros."</string>
     <string name="pref_camera_beautify_entry_low">Bajo</string>
     <string name="pref_camera_beautify_entry_normal">Medio</string>
     <string name="pref_camera_beautify_entry_high">Alto</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Opciones</string>
     <string name="button_front_camera_title">Tomar una selfie</string>
     <string name="button_normal_video_title">Grabar video</string>
@@ -356,6 +356,7 @@ y creará una en la que todos se vean mejor."</string>
     <string name="toast_saving">Guardando fotos…</string>
     <string name="cannot_connect_camera_volte_call">Vídeo llamada en curso, por favor, inténtelo más tarde.</string>
     <string name="hibernate_hint">Pulse la pantalla para activar la Cámara</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">Modo Zoom</string>
     <string name="accessibility_portrait_button">Modo Retrato</string>
     <string name="toast_burst_snap_finished_summary">Fotos en ráfaga listas, %1$s fotos tomadas</string>

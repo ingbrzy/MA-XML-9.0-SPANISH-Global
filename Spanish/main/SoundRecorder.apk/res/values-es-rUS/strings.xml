@@ -46,7 +46,7 @@
     <string name="rename_duplicate">Ya existe otra grabación con el mismo nombre.</string>
     <string name="rename_no_more_tip">No volver a mostrar</string>
     <string name="dialog_title_storage_full">Sin espacio suficiente</string>
-    <string name="dialog_content_storage_full">La grabación se ha detenido porque no queda espacio suficiente en la memoria interna de su dispositivo.</string>
+    <string name="dialog_content_storage_full">La grabación se ha detenido porque no hay suficiente espacio de almacenamiento en su dispositivo.</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_back">Pulsa para volver a la Grabadora</string>
     <string name="status_bar_recording_pause">Grabación pausada</string>
@@ -103,7 +103,7 @@
     <string name="cloud_status_full_dialog_cancel">Ahora no</string>
     <string name="cloud_status_full_dialog_ok">Actualizar</string>
     <string name="text_btn_recording">Grabar</string>
-    <string name="text_btn_pause">Pause</string>
+    <string name="text_btn_pause">Pausa</string>
     <string name="text_btn_play">Reproducir</string>
     <string name="text_btn_mark">Marcar</string>
     <string name="text_btn_list">Grabaciones</string>

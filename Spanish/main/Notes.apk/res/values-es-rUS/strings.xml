@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">La cuenta de Weibo ha caducado, añada de nuevo la cuenta.</string>
     <string name="sina_token_invalid_warning">Cuenta de Weibo no válida, añada la cuenta de nuevo.</string>
     <string name="sina_share_fail_content_repeat">Ya has compartido esto.</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Notas;Memo</string>
     <string name="search_path_notes">Apps del sistema/Notas</string>
     <string name="dlg_move_message">Moviendo…</string>
@@ -117,6 +118,7 @@
     <string name="error_unsupport_content">Esta nota contiene contenido no compatible, pulseaquí para actualizar</string>
     <string name="error_contact_not_exist">El Contacto no existe</string>
     <string name="sync_tips">Toca para sincronizar notas con Mi Cloud.</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">Tamaño de fuente</string>
     <string name="call_folder_name">Notas de llamada</string>
     <string name="trash_folder_name">Basura</string>

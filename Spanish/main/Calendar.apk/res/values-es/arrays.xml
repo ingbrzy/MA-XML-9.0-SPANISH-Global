@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="change_response_labels">
-        <item>Solo este evento</item>
+        <item>Sólo este evento</item>
         <item>Todos los eventos de la serie</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Solo este evento</item>
-        <item>Este y otros eventos posteriores</item>
+        <item>Sólo este evento</item>
+        <item>Este y eventos futuros</item>
         <item>Todos los eventos</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>primer</item>
+        <item>primero</item>
         <item>segundo</item>
-        <item>tercer</item>
+        <item>tercero</item>
         <item>cuarto</item>
         <item>último</item>
     </string-array>
@@ -28,9 +28,9 @@
         <item>Lunes</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Sin respuesta</item>
+        <item>No responde</item>
         <item>Sí</item>
-        <item>Quizás</item>
+        <item>Quizá</item>
         <item>No</item>
     </string-array>
     <string-array name="timezone_labels">
@@ -157,6 +157,10 @@
         <item>1 día antes</item>
         <item>2 días antes</item>
         <item>1 semana antes</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>géminis</item>
@@ -314,74 +318,5 @@
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fondo blanco</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Ocupado</item>
-        <item>Disponible</item>
-        <item>Provisional</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Día</item>
-        <item>Semana</item>
-        <item>Mes</item>
-        <item>Agenda</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Este y otros eventos posteriores</item>
-        <item>Todos los eventos</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Ninguno</item>
-        <item>0 minutos</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>2 días</item>
-        <item>1 semana</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Con un par de minutos de retraso si corres</item>
-        <item>Llegaré en unos diez minutos</item>
-        <item>Empezad sin mi</item>
-        <item>No puedo, mejor en otro momento</item>
-    </string-array>
-    <string-array name="reminder_methods_labels">
-        <item>Notificación</item>
-        <item>Correo</item>
-        <item>SMS</item>
-        <item>Alarma</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>0 minutos</item>
-        <item>1 minuto</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>2 días</item>
-        <item>1 semana</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Predeterminado</item>
-        <item>Privado</item>
-        <item>Público</item>
     </string-array>
 </resources>
